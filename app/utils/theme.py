@@ -1,0 +1,12 @@
+BG = '#0f172a'
+PANEL = '#111827'
+CARD = '#1f2937'
+TEXT = '#e5e7eb'
+SUB = '#94a3b8'
+ACCENT = '#38bdf8'
+GOOD = '#22c55e'
+WARN = '#f59e0b'
+BAD = '#ef4444'
+
+WINDOW = '1320x840'
+TITLE = 'Pigment Process Monitoring Suite'
