@@ -1,6 +1,0 @@
-OrderID,Destination,DispatchDate,DueDate,Quantity,Status,Customer
-D1001,Mumbai,2026-03-01,2026-03-04,1200,Delivered,Prism Coatings
-D1002,Pune,2026-03-02,2026-03-05,950,In Transit,ColorChem
-D1003,Ahmedabad,2026-03-03,2026-03-05,1100,Delayed,TexShade
-D1004,Surat,2026-03-04,2026-03-06,780,Scheduled,DyeNova
-D1005,Nashik,2026-03-05,2026-03-07,860,Scheduled,PigmentWorks
