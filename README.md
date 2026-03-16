@@ -8,7 +8,7 @@
 
 # ⬡ Pigment Process Control System
 
-### Industrial Analytics Platform for Pigment Manufacturing & Packing
+### Industrial Analytics Platform for Pigment Manufacturing & Packing 
 
 *A professional desktop application that brings factory-floor intelligence to pigment production — COD/BOD prediction, colour quality analysis, equipment health monitoring, and delivery tracking, all in one Steel Professional HMI interface.*
 
