@@ -93,7 +93,7 @@ The **Pigment Process Control System (PCS)** is a full-featured industrial deskt
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/pigment-pcs.git
+git clone https://github.com/uyg7x/pigment-pcs.git
 cd pigment-pcs/pigment_app
 
 # 2. Install dependencies
